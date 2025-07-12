@@ -112,6 +112,7 @@ npm install
 # Start the development server
 npm run dev
 
+---
 ## 📬 Contact
 
 Have questions, feedback, or want to contribute?  
