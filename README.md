@@ -101,7 +101,7 @@ We welcome contributors of all backgrounds and skill levels.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ignitia-lab.git
+git clone https://github.com/OparaMiracle12/Ignitia-core.git
 
 # Navigate into the project folder
 cd ignitia-lab
