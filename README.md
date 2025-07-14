@@ -6,8 +6,7 @@ _A mobile-optimized, web-based simulation and modeling platform for physics and 
 ---
 
 <div width= "60%" style="margin: 0 auto; display: flex">
-  <img src="WelcomePromptScreen.jpg" alt="Community UI" width="100%" style="border: 1px solid #e5e7eb; border-radius: 12px;" />
-  <img src="WelcomePromptScreen.jpg" alt="Community UI" width="100%" style="border: 1px solid #e5e7eb; border-radius: 12px;" />
+  <img src="ignitia.png" alt="Community UI" width="100%" style="border: 1px solid #e5e7eb; border-radius: 12px;" />
 </div>
 
 ---
