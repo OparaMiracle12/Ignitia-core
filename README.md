@@ -4,7 +4,7 @@
 _A mobile-optimized, web-based simulation and modeling platform for physics and STEM education._
 
 ---
-### Simulation Canvas
+## Simulation Canvas
 ![Simulation View](WelcomePromptScreen.jpg)
 ![Simulation View](EmptySimulationScreen.jpg)
 ---
