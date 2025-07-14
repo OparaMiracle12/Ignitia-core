@@ -4,10 +4,14 @@
 _A mobile-optimized, web-based simulation and modeling platform for physics and STEM education._
 
 ---
-## Simulation Canvas
-![Simulation View](WelcomePromptScreen.jpg)
-![Simulation View](EmptySimulationScreen.jpg)
+
+<div width= "60%" style="margin: 0 auto">
+  <img src="WelcomePromptScreen.jpg" alt="Community UI" width="100%" style="max-width: 700px; border: 1px solid #e5e7eb; border-radius: 12px;" />
+  <img src="WelcomePromptScreen.jpg" alt="Community UI" width="100%" style="max-width: 700px; border: 1px solid #e5e7eb; border-radius: 12px;" />
+</div>
+
 ---
+
 ## 🌍 What is Ignitia?
 
 **Ignitia** is an open-source, AI-powered web app that lets students and tutors simulate and explore science through natural conversation — just like Tony Stark and JARVIS.  
