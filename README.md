@@ -6,6 +6,7 @@ _A mobile-optimized, web-based simulation and modeling platform for physics and 
 ---
 ### Simulation Canvas
 ![Simulation View](WelcomePromptScreen.jpg)
+![Simulation View](EmptySimulationScreen.jpg)
 ---
 ## 🌍 What is Ignitia?
 
